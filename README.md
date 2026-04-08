@@ -136,9 +136,8 @@ Password strength is mapped to estimated crack time:
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/password-strength-ml.git
-cd password-strength-ml
-pip install -r requirements.txt
+https://github.com/appu415/PASSWORD-STRENGTH-DETECTION-USING-ML.git
+
 ```
 
 ---
